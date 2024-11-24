@@ -1,0 +1,31 @@
+.jumbotron {
+  padding: 5rem 1rem;
+  background-color: #ffffff;
+}
+
+#about {
+  padding: 5rem 1rem;
+  background-color: #dcdcdc;
+}
+
+.sosmed {
+  display: flex;
+}
+
+body {
+  min-height: 2000px;
+}
+
+#find {
+  padding: 2rem;
+  background-color: #f0f4f3;
+}
+
+#educations {
+  padding: 2rem;
+  background-color: #cbcfd4;
+}
+
+#contact {
+  background-color: #e2edff;
+}
